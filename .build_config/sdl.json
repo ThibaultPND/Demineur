@@ -1,0 +1,7 @@
+{
+    "x86_64-windows-gnu": {
+      "include": "lib/SDL.zig/lib/SDL2/include",
+      "libs": "lib/SDL.zig/lib/SDL2/lib",
+      "bin": "lib/SDL.zig/lib/SDL2/bin"
+    }
+}
